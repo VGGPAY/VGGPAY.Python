@@ -22,3 +22,7 @@ python src/createorder.py
 ```bash
 python src/callback-notification-decryption.py
 ```
+
+# Error code Description
+https://www.vggpay.com/business-code
+
