@@ -20,5 +20,5 @@ python src/createorder.py
 
 # VGGPA sends callback data to your server. The following is an example of decrypted data
 ```bash
-python src/callback-notification.py
+python src/callback-notification-decryption.py
 ```
